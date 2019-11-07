@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1RDjZb23LTOQRGsVTCEY9LJUA-2Etjd4e
 
 Protein VAE
-
-COLAB sucks
 """
 
 
