@@ -15,7 +15,7 @@ conv_cvae_metal_gen.py ==> Convolutional VAE training script
 
 metal_gen.py ==> Fully-connected VAE training script
 
-seq_to_seq.py ==> reconstruct sequence, no metal-binding code, see script for usage, onfigured for Conv VAE
+seq_to_seq.py ==> reconstruct sequence, no metal-binding code, see script for usage, configured for Conv VAE
 
 seq_to_seq.py ==> reconstruct sequence with metal-binding code, see script for usage, configured for Conv VAE
 
