@@ -1,12 +1,13 @@
 # protein-vae
 final project for 4995 deep learning class
+
 This project builds upon existing work: https://github.com/psipred/protein-vae
 
 Data used for training and trained models are too big for github. Available from author upon request
 
 
 
-Descriptions for files:
+## **Descriptions for files:**
 
 mprotein_seq.txt ==> Raw protein sequences 
 
