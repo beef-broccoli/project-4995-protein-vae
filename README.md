@@ -1,5 +1,5 @@
 # protein-vae
-final project for 4995 deep learning class
+final project for 4995 deep learning class at Columbia
 
 This project builds upon existing work: https://github.com/psipred/protein-vae
 
