@@ -21,4 +21,4 @@ seq_to_seq.py ==> reconstruct sequence with metal-binding code, see script for u
 
 utils.py ==> helper functions
 
-Conv CVAE metal_gen.ipynb ==> jupyter notebook, for running and testing on colab (this script is not extensively tested, might differ from actual training script/ contain errors)
+Conv CVAE metal_gen.ipynb ==> jupyter notebook, for running and testing on colab (this script has not extensively tested, might differ from actual training script/ contain errors)
