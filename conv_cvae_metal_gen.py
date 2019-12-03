@@ -382,12 +382,4 @@ plt.xlabel('Epoch')
 plt.legend()
 plt.show()
 
-"""RESULT: (dev set 15% train, 10% validation)
-
-200 epochs (~50 min)
-
-Tra Acc: 0.9990800993620171
-
-Val Acc: 0.999...........
-"""
 
